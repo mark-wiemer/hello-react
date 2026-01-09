@@ -1,5 +1,8 @@
 # Hello React
 
+> [!IMPORTANT]
+> This project has moved to [my hello-hello monorepo](https://github.com/mark-wiemer/hello-hello/tree/main/packages/react), it's not abandoned!
+
 (Formerly Hello Vite or hello-vite)
 
 A batteries-included template project for React, Vite, and TypeScript using all my favorite tools. Also includes my favorite `package.json` npm scripts :) Meant for complex interactive websites.
